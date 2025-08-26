@@ -1,0 +1,59 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\zeyne\OneDrive\Belgeler\NetBeansProjects\SerialGui5\dist\arduino_serial_gui.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\zeyne\OneDrive\Belgeler\NetBeansProjects\SerialGui5\dist\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\zeyne\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\zeyne\AppData\Local\Programs\Python\Python313\;C:\Users\zeyne\AppData\Local\Programs\Python\Launcher\;C:\Users\zeyne\AppData\Local\Microsoft\WindowsApps;C:\Users\zeyne\.dotnet\tools;C:\Users\zeyne\AppData\Local\GitHubDesktop\bin;C:\Users\zeyne\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Program Files (x86)\Java\jre1.8.0_461\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\zeyne\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\zeyne\AppData\Local\Programs\Python\Python313\;C:\Users\zeyne\AppData\Local\Programs\Python\Launcher\;C:\Users\zeyne\AppData\Local\Microsoft\WindowsApps;C:\Users\zeyne\.dotnet\tools;C:\Users\zeyne\AppData\Local\GitHubDesktop\bin;C:\Users\zeyne\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Program Files (x86)\Java\jre1.8.0_461\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\zeyne\AppData\Local\Programs\Python\Python313\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\zeyne\AppData\Local\Programs\Python\Python313\bin\javaw.exe (not found)
+Check launcher:	C:\Users\zeyne\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\zeyne\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\zeyne\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\zeyne\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Users\zeyne\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_461\bin\javaw.exe (OK)
+Version string: 1.008.000_461 / 32-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 32-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_461
+Version string: 1.008.000_461 / 32-Bit (Ignore)
+Ignore:		1.008.000_461
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\18.0.2.1
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Match:		1.018.000_002
+Runtime used:	1.018.000_002 (64-bit)
+Main class:	serialgui5.SerialGui5
+Add classpath:	lib\jSerialComm-2.11.2.jar
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\zeyne\OneDrive\Belgeler\NetBeansProjects\SerialGui5\dist\arduino_serial_gui.exe;lib\jSerialComm-2.11.2.jar" serialgui5.SerialGui5
+Args length:	150/32768 chars
+Exit code:	0
