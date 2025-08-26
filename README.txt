@@ -1,6 +1,14 @@
-# Arduino + Java Swing GUI Project (ENG)
+# Arduino + Java Swing GUI Project | Arduino + Java Swing GUI Projesi
 
 ---
+
+## 🌐 Languages | Diller
+- [English](#english)  
+- [Türkçe](#türkçe)  
+
+---
+
+# English
 
 ## 🌍 Introduction
 This repository contains a **command-based control system** developed with **Arduino Mega 2560** and a **Java Swing GUI**.  
@@ -55,9 +63,7 @@ If you don’t want to use Arduino IDE or a Java IDE, you can directly run the `
 
 ---
 
-# Arduino + Java Swing GUI Projesi (TR)
-
----
+# Türkçe
 
 ## 🌍 Giriş
 Bu depo, **Arduino Mega 2560** ve **Java Swing GUI** kullanılarak geliştirilmiş **komut tabanlı bir kontrol sistemini** içermektedir.  
