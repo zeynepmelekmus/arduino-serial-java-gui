@@ -42,11 +42,11 @@ If you don’t want to use Arduino IDE or a Java IDE, you can directly run the `
 ---
 
 ## 📖 Example Commands
-- `adddevice LED1` → Adds a new device  
-- `set LED1 ON` → Turns on the device  
-- `toggle LED1` → Toggles the device state  
-- `print` → Lists all devices  
-- `clear` → Clears the dictionary  
+- `adddevice led1 led 1` → Adds a new device  
+- `set led1 on` → Turns on the device  
+- `toggle led1` → Toggles the device state  
+- `print devices` → Lists all devices  
+- `clear dictionary` → Clears the dictionary  
 
 ---
 
@@ -97,11 +97,11 @@ Eğer Arduino IDE veya Java IDE kullanmak istemezseniz, `arduino serial program`
 ---
 
 ## 📖 Örnek Komutlar
-- `adddevice LED1` → Yeni cihaz ekler  
-- `set LED1 ON` → Cihazı açar  
-- `toggle LED1` → Cihazın durumunu değiştirir  
-- `print` → Tüm cihazları listeler  
-- `clear` → Dictionary’yi temizler  
+- `adddevice led1 led 1` → Yeni cihaz ekler  
+- `set led1 on` → Cihazı açar  
+- `toggle led1` → Cihazın durumunu değiştirir  
+- `print devices` → Tüm cihazları listeler  
+- `clear dictionary` → Dictionary’yi temizler  
 
 ---
 
